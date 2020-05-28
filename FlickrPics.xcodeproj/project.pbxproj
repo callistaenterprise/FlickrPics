@@ -28,6 +28,7 @@
 		24CEF9C9247C409500C9CCBF /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24CEF9C8247C409500C9CCBF /* SearchView.swift */; };
 		24CEF9CD247C47D600C9CCBF /* SearchViewState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24CEF9CC247C47D600C9CCBF /* SearchViewState.swift */; };
 		24CEF9CF247CCFAE00C9CCBF /* PhotosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24CEF9CE247CCFAE00C9CCBF /* PhotosView.swift */; };
+		24D65079247FB14B0027A7FC /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 24D65078247FB14B0027A7FC /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +76,7 @@
 		24CEF9C8247C409500C9CCBF /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 		24CEF9CC247C47D600C9CCBF /* SearchViewState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewState.swift; sourceTree = "<group>"; };
 		24CEF9CE247CCFAE00C9CCBF /* PhotosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosView.swift; sourceTree = "<group>"; };
+		24D65078247FB14B0027A7FC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 		24CEF97C2477D36F00C9CCBF = {
 			isa = PBXGroup;
 			children = (
+				24D65078247FB14B0027A7FC /* README.md */,
 				2403D358247FA04A0064BB64 /* ActivityIndicator.swift */,
 				24214604247F8A990018FB84 /* Default-568h@2x.png */,
 				24CEF9C6247AD0B300C9CCBF /* FlickrApi.swift */,
@@ -281,6 +284,7 @@
 			files = (
 				24CEF9952477D37100C9CCBF /* LaunchScreen.storyboard in Resources */,
 				24214605247F8A990018FB84 /* Default-568h@2x.png in Resources */,
+				24D65079247FB14B0027A7FC /* README.md in Resources */,
 				24CEF9922477D37100C9CCBF /* Preview Assets.xcassets in Resources */,
 				24CEF98F2477D37100C9CCBF /* Assets.xcassets in Resources */,
 			);
